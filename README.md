@@ -25,7 +25,7 @@ The project focused on card, customer, and account management in an enterprise-l
 
 ### ⚙️ Technologies
 
-Java • Swing • JDBC • MySQL • NetBeans • Python • OpenCV • Git
+Java • Swing • JDBC • SQL • Python • OpenCV • Pytorch • C/C++
 
 ---
 
