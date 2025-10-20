@@ -4,10 +4,6 @@ I'm a **third-year Software Engineering student**.
 I develop **Java-based desktop applications with database integration**,  
 and I'm currently working in the field of **Artificial Intelligence and Computer Vision**.
 
-During my internship, I developed a **Debit Card Management Module**  
-for ATM & POS solutions using **NetBeans IDE** and **JDBC**.  
-The project focused on card, customer, and account management in an enterprise-level desktop system.
-
 ---
 
 ### 🚀 Featured Projects
