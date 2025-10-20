@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Merhaba, ben Semih
 
-<!--
-**semihalev1/semihalev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3. sınıf Yazılım Mühendisliği öğrencisiyim.  
+**Java ile veritabanı tabanlı masaüstü uygulamalar** geliştiriyorum ve şu anda  
+**yapay zekâ ve görüntü işleme (computer vision)** alanında çalışmalar yapıyorum.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Öne çıkan projeler
+- **Debit Card Management** — Java, NetBeans, JDBC, MySQL  
+  > Kart, müşteri ve hesap ilişkilerini yöneten masaüstü modül   
+- **Monopoly Game** — Zar, piyon ve currentNode mantığıyla oyun simülasyonu  
+- **Computer Vision Projects (AI)** — Python + OpenCV ile görüntü işleme denemeleri  
+  > Nesne tespiti, yüz tanıma ve filtreleme algoritmaları  
+
+---
+
+### ⚙️ Teknolojiler
+Java • Swing • JDBC • SQL • Python • OpenCV • Pytorch • C/C++ 
+
+---
+
+### 📫 İletişim
+📍 İstanbul  
+✉️ alevsemih53@gmail.com  
