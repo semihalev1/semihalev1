@@ -1,25 +1,35 @@
-### 👋 Merhaba, ben Semih
+### 👋 Hi, I'm Semih
 
-3. sınıf Yazılım Mühendisliği öğrencisiyim.  
-**Java ile veritabanı tabanlı masaüstü uygulamalar** geliştiriyorum ve şu anda  
-**yapay zekâ ve görüntü işleme (computer vision)** alanında çalışmalar yapıyorum.  
+I'm a **third-year Software Engineering student**.  
+I develop **Java-based desktop applications with database integration**,  
+and I'm currently working in the field of **Artificial Intelligence and Computer Vision**.
+
+During my internship, I developed a **Debit Card Management Module**  
+for ATM & POS solutions using **NetBeans IDE** and **JDBC**.  
+The project focused on card, customer, and account management in an enterprise-level desktop system.
 
 ---
 
-### 🚀 Öne çıkan projeler
+### 🚀 Featured Projects
+
 - **Debit Card Management** — Java, NetBeans, JDBC, MySQL  
-  > Kart, müşteri ve hesap ilişkilerini yöneten masaüstü modül   
-- **Monopoly Game** — Zar, piyon ve currentNode mantığıyla oyun simülasyonu  
-- **Computer Vision Projects (AI)** — Python + OpenCV ile görüntü işleme denemeleri  
-  > Nesne tespiti, yüz tanıma ve filtreleme algoritmaları  
+  > Desktop module managing card, customer, and account relationships.
+
+- **Monopoly Game** — Java  
+  > Board game simulation with dice, pawn, and `currentNode` logic.
+
+- **Computer Vision Projects (AI)** — Python, OpenCV  
+  > Object detection, face recognition, and image filtering experiments.
 
 ---
 
-### ⚙️ Teknolojiler
-Java • Swing • JDBC • SQL • Python • OpenCV • Pytorch • C/C++ 
+### ⚙️ Technologies
+
+Java • Swing • JDBC • MySQL • NetBeans • Python • OpenCV • Git
 
 ---
 
-### 📫 İletişim
-📍 İstanbul  
+### 📫 Contact
+
+📍 Istanbul, Türkiye  
 ✉️ alevsemih53@gmail.com  
